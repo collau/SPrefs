@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SPrefs</string>
+    <string name="editTextHint_message">Enter Message</string>
+    <string name="button_save">Save</string>
+</resources>
